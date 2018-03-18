@@ -377,8 +377,6 @@ vendor/lib/libsensor_user_cal.so
 vendor/lib/sensor_calibrate.so
 vendor/lib/sensors.ssc.so
 
-<<<<<<< HEAD
-=======
 # Time services
 -app/TimeService/TimeService.apk
 bin/time_daemon
@@ -393,7 +391,7 @@ vendor/bin/thermal-engine
 vendor/lib64/libthermalioctl.so
 -vendor/lib/libthermalclient.so
 
->>>>>>> 1a60ea5... Add thermal-engine
+
 # WideVine - from bullhead
 vendor/lib/libwvdrm_L1.so|3eaf8ed1cb337608a1ccdb80d2c95804e7aea323
 vendor/lib/libwvm.so|59c4c078f4b897ddac8f665309b7a3f25522f207
