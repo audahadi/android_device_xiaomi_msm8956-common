@@ -1,8 +1,6 @@
 [AID_QTI_DIAG]
 value:2901
 
-[AID_QCOM_DIAG]
-value:2950
 
 [system/bin/pm-service]
 mode: 0755
