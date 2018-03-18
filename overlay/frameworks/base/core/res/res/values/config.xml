@@ -396,9 +396,6 @@
     <!-- Max number of advertisers supported by bluetooth controller. 0 if the
          device does not support multiple advertisement-->
     <integer translatable="false" name="config_bluetooth_max_advertisers">4</integer>
-<<<<<<< HEAD
-=======
-
     <!-- Whether device supports double tap to wake -->
     <bool name="config_supportDoubleTapWake">true</bool>
 
@@ -408,5 +405,5 @@
         <item>XTRA_SERVER_2=https://xtrapath2.izatcloud.net/xtra3grc.bin</item>
         <item>XTRA_SERVER_3=https://xtrapath3.izatcloud.net/xtra3grc.bin</item>
      </string-array>
->>>>>>> 2764fa3... gps: Move XTRA_SERVER entries to overlays
+
 </resources>
