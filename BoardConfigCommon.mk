@@ -181,7 +181,6 @@ TARGET_PROVIDES_LIBLIGHT := true
 
 # Lineage hardware
 BOARD_HARDWARE_CLASS += \
-    hardware/lineage/lineagehw \
     $(VENDOR_PATH)/lineagehw
 
 # Media
